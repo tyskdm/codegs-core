@@ -1,0 +1,22 @@
+{
+  "name": "codegs-core",
+  "version": "0.0.0",
+  "description": "[ Experimental ] Codegs core modules package. see https://www.npmjs.org/package/codegs",
+  "main": "code/gas/global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tyskdm/codegs-core.git"
+  },
+  "keywords": [
+    "gas",
+    "GoogleAppsScript"
+  ],
+  "author": {
+    "name": "Tsuyoshi Kodama",
+    "email": "tsuyoshi.kodama@gmail.com"
+  },
+  "license": "MIT"
+}
