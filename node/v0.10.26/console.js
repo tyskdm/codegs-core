@@ -45,7 +45,7 @@ function Console(stdout, stderr) {
 
   // bind the prototype functions to this Console instance
   Object.keys(Console.prototype).forEach(function(k) {
-    this[k] = this[k].bind(this);
+    // this[k] = this[k].bind(this);
   }, this);
 }
 

@@ -1,7 +1,7 @@
 {
   "name": "codegs-core",
-  "version": "0.0.0",
-  "description": "[ Experimental ] Codegs core modules package. see https://www.npmjs.org/package/codegs",
+  "version": "0.0.1",
+  "description": "Code.gs core modules package. see [Code.gs](https://www.npmjs.org/package/codegs)",
   "main": "code/gas/global.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
